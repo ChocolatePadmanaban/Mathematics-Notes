@@ -1,0 +1,70 @@
+Mathematics Subtopics
+    - Calculus 
+    - Linear Algebra 
+    - Real Analysis
+    - Complex Analysis
+    - Ordinary Differencial Equations - ODE 
+    - Algebra 
+    - Functional Analysis
+    - Numerical Analysis 
+    - Partial Differenctia Equations - PDE 
+    - Topology 
+    - Linear Programming 
+
+MA 2023 Question Paper :
+
+11 - Calculus
+12 - Topology
+13 - Complex Analysis
+14 - Linear Algebra
+15 - Complex Analysis
+16 - Real Analysis
+17 - Real Analysis
+18 - Algebra
+19 - Linear Algebra
+20 - Real Analysis
+21 - Calculus
+22 - Linear Algebra
+23 - 
+24 - Topology
+25 - Linear Programming
+26 - PDE
+27 - Complex Analysis
+28 - 
+29 - Numerical Analysis
+30 - Calculus
+31 - Calculus
+32 - Real Analysis
+33 - ODE
+34 - Linear Algebra
+35 - Linear Algebra
+36 - Complex Analysis
+37 - Real Analysis
+38 - Real Analysis
+39 - Complex Analysis
+40 - Numerical Analysis
+41 - ODE
+42 - Complex Analysis
+43 - Complex Analysis
+44 - Topology
+45 - Algebra
+46 - Algebra
+47 - Real Analysis
+48 - Algebra
+49 - 
+50 - 
+51 - Numerical Analysis
+52 - 
+53 - Functional Analysis
+54 - Algebra
+55 - Calculus
+56 - Functional Analysis
+57 - Linear Programming
+58 - Algebra
+59 - 
+60 - Linear Algebra
+61 - PDE
+62 - ODE
+63 - ODE
+64 - PDE
+65 - Linear Programming
